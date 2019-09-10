@@ -1,0 +1,19 @@
+{
+  "name": "mswpp",
+  "version": "1.0.0",
+  "description": "mswpp website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-khan-net/mswpp.git"
+  },
+  "author": "saud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-khan-net/mswpp/issues"
+  },
+  "homepage": "https://github.com/s-khan-net/mswpp#readme"
+}
